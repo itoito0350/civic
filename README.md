@@ -3,11 +3,6 @@
 
 Plataforma Móvil de Comunicación y Gestión Ciudadana para Ayuntamientos
 
-## Código fuente
-
-El código completo está disponible en este repositorio: 
-https://github.com/itoito0350/civic
-
 ---
 
 ## 🧠 Descripción General
